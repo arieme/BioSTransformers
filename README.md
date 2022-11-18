@@ -1,4 +1,2 @@
 # PubMed-MeSH_pairs
-vous troverez ici un corpus qu'ona construit à partir de la base de donnée PubMed/MEDLINE. 
-Ce corpus consiste en des paires (titre, MeSH) et (résumé, MeSH).
-le corpus contient à peu prés 6 millions de paires.
+Here is a corpus that was built from the PubMed/MEDLINE database. This corpus consists of pairs (title, mesh) and (summary, mesh). the corpus contains about 6 million pairs.
